@@ -9,10 +9,10 @@ https://www.youtube.com/@renato-coelho
 ## Apresentação em Vídeo
 
 <p align="center">
-  <a href="https://www.youtube.com/@renato-coelho" target="_blank"><img src="imagens/thumbnail/thumbnail-postman-ubuntu-github-01.png" alt="Vídeo de instalação do Postman no Ubuntu"></a>
+  <a href="https://youtu.be/vzWDQPcx4Lk" target="_blank"><img src="imagens/thumbnail/thumbnail-postman-ubuntu-github-01.png" alt="Vídeo de instalação do Postman no Ubuntu"></a>
 </p>
 
-![YouTube Video Views](https://img.shields.io/youtube/views/????????) ![YouTube Video Likes](https://img.shields.io/youtube/likes/????????)
+![YouTube Video Views](https://img.shields.io/youtube/views/vzWDQPcx4Lk) ![YouTube Video Likes](https://img.shields.io/youtube/likes/vzWDQPcx4Lk)
 
 ## Requisitos
 
